@@ -1,32 +1,55 @@
 <div align="center">
   <h1>✨ Kaituo Zhang ✨</h1>
-  <p>
-    <b>English</b> | <a href="./README_CN.md">简体中文</a>
-  </p>
   
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=120&section=header&text=Welcome%20to%20my%20Space&fontSize=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Building%20&%20Researching&fontSize=50" width="100%" />
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Focus-Deep%20Learning-blue?style=flat-square">
+    <img src="https://img.shields.io/badge/Field-Research%20&%20Tools-orange?style=flat-square">
+    <img src="https://img.shields.io/github/followers/KaituoZhang?label=Follow&style=flat-square">
+  </p>
 </div>
 
-## 📖 About Me
-Brief introduction about who you are, what you study (Research), and what you build (Tools).
+---
 
-## 🚀 Projects Gallery
+### 📖 Biography
+I am a researcher and developer passionate about bridging the gap between theoretical research and practical utility. My work alternates between deep learning experimentation and building efficient scripts to automate daily tasks.
 
-| 🧪 Research & Science | 🛠 Utility Tools |
-| :--- | :--- |
-| **[Project Name 1]**<br>Short description of your research. | **[Tool Name A]**<br>What this tool does for you. |
-| **[Project Name 2]**<br>Key tech stack (e.g., PyTorch). | **[Tool Name B]**<br>Short description. |
+---
 
-## 📊 GitHub Stats
+### 🚀 Project Gallery
+
+#### 🧪 Research & Science
+*Focused on reproducibility, performance, and academic rigor.*
+
+- **[Project Name 1]** - Brief description of your key research repo.
+- **[Project Name 2]** - Implementation of [Paper/Model Name] using PyTorch.
+- **[Project Name 3]** - Experimental data analysis and visualization tools.
+
+#### 🛠 Utility & Tools
+*Small scripts that solve big problems.*
+
+- **[Tool Name A]** - Automation script for [Specific Task].
+- **[Tool Name B]** - A lightweight utility for [Practical Problem].
+- **[Tool Name C]** - CLI tool designed for [Usage].
+
+---
+
+### 📊 Coding Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaituoZhang&show_icons=true&theme=radical" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaituoZhang&layout=compact&theme=radical" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KaituoZhang&show_icons=true&theme=radical&rank_icon=github" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaituoZhang&layout=compact&theme=radical" height="165px" />
 </p>
 
-## 🛠 Tech Stack
+### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,latex,matlab,git,linux" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,latex,git,linux,matlab,docker" />
+  </a>
 </p>
 
 ---
-<p align="center">📫 How to reach me: [Your Email/Links]</p>
+
+<div align="center">
+  📫 <b>Reach me at:</b> [Your Email] | <b>Follow me on:</b> [Twitter/Blog/LinkedIn]
+</div>
