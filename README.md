@@ -36,11 +36,13 @@ I am a researcher and developer dedicated to exploring the boundaries of artific
 
 ---
 
+<!--
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KaituoZhang&show_icons=true&theme=radical&rank_icon=github" height="165px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaituoZhang&layout=compact&theme=radical" height="165px" />
 </p>
+-->
 
 ### 💻 Tech Stack
 <p align="center">
